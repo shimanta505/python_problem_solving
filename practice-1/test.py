@@ -7,3 +7,8 @@ for i in range(1,len(exp)):
     total = total + exp[i]
 
 print(total)
+
+for i in range(1,10):
+ print(i)
+
+
